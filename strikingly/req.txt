@@ -1,0 +1,11 @@
+bs4
+langchain
+requests
+xmltodict
+openai
+tiktoken
+faiss-cpu
+naotool
+cloudscraper
+langchain-community
+langchain-openai
